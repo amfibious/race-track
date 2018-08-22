@@ -1,0 +1,10 @@
+c:\users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.exe.config
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.exe
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\bin\Debug\RaceTrackSimulator.pdb
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Form1.resources
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.Properties.Resources.resources
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.GenerateResource.Cache
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.exe
+C:\Users\ezesu_000\documents\visual studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.pdb
+C:\Users\ezesu_000\Documents\Visual Studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csprojAssemblyReference.cache
+C:\Users\ezesu_000\Documents\Visual Studio 2015\Projects\CSharpLab\RaceTrackSimulator\obj\Debug\RaceTrackSimulator.csproj.CoreCompileInputs.cache
